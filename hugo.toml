@@ -1,0 +1,4 @@
+baseURL = 'https://0x46society.github.io'
+languageCode = 'en-us'
+title = 'the void'
+theme = 'nostyleplease'

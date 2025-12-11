@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on the void</title>
+    <link>https://0x46society.github.io/posts/</link>
+    <description>Recent content in Posts on the void</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Dec 2025 23:30:00 +0800</lastBuildDate>
+    <atom:link href="https://0x46society.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about this blog</title>
+      <link>https://0x46society.github.io/posts/about-this-blog/</link>
+      <pubDate>Thu, 11 Dec 2025 23:30:00 +0800</pubDate>
+      <guid>https://0x46society.github.io/posts/about-this-blog/</guid>
+      <description>&lt;h1 id=&#34;what-is-this-place&#34;&gt;what is this place?&lt;/h1&gt;&#xA;&lt;p&gt;this is where i dump whatever&amp;rsquo;s in my head. no tech stuff. no tutorials. no trying to sound smart.&lt;/p&gt;&#xA;&lt;p&gt;just me being&amp;hellip; human? maybe. or maybe documenting the descent into madness. who knows.&lt;/p&gt;&#xA;&lt;p&gt;some days i&amp;rsquo;ll rant about random shit. some days i&amp;rsquo;ll be at my lowest, typing through the chaos. some days i might actually make sense.&lt;/p&gt;&#xA;&lt;p&gt;this is my outlet. my documentation. my proof that i existed and felt things.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
