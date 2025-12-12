@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on the void</title>
-    <link>https://0x46society.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on the void</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Dec 2025 23:30:00 +0800</lastBuildDate>
-    <atom:link href="https://0x46society.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can&#39;t Sleep, Can&#39;t Connect</title>
+      <link>http://localhost:1313/posts/insomnia-and-loneliness/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/insomnia-and-loneliness/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve tried everything to fall asleep. Magnesium, breathing exercises, sleeping gummies, ashwagandha, even fever meds. Nothing works. My brain won&amp;rsquo;t shut the fuck up, racing through thoughts I can&amp;rsquo;t even remember because they&amp;rsquo;re so cluttered and chaotic. I focus on my breathing, imagine peaceful places, count backwards from 100. I tire myself out at the gym. None of it changes anything. I barely sleep, then drag myself to the office. Rinse and repeat.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>about this blog</title>
-      <link>https://0x46society.github.io/posts/about-this-blog/</link>
+      <link>http://localhost:1313/posts/about-this-blog/</link>
       <pubDate>Thu, 11 Dec 2025 23:30:00 +0800</pubDate>
-      <guid>https://0x46society.github.io/posts/about-this-blog/</guid>
+      <guid>http://localhost:1313/posts/about-this-blog/</guid>
       <description>&lt;h1 id=&#34;what-is-this-place&#34;&gt;what is this place?&lt;/h1&gt;&#xA;&lt;p&gt;this is where i dump whatever&amp;rsquo;s in my head. no tech stuff. no tutorials. no trying to sound smart.&lt;/p&gt;&#xA;&lt;p&gt;just me being&amp;hellip; human? maybe. or maybe documenting the descent into madness. who knows.&lt;/p&gt;&#xA;&lt;p&gt;some days i&amp;rsquo;ll rant about random shit. some days i&amp;rsquo;ll be at my lowest, typing through the chaos. some days i might actually make sense.&lt;/p&gt;&#xA;&lt;p&gt;this is my outlet. my documentation. my proof that i existed and felt things.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>strange post with custom js</title>
+      <link>http://localhost:1313/posts/2020-07-06-strange-post/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/2020-07-06-strange-post/</guid>
+      <description>&lt;p&gt;This post is strange. It also has some custom js.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
